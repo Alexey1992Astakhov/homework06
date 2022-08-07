@@ -1,0 +1,15 @@
+C:\Users\Алексей\Desktop\homework05\Examples06\Ex\bin\Debug\net6.0\Ex.exe
+C:\Users\Алексей\Desktop\homework05\Examples06\Ex\bin\Debug\net6.0\Ex.deps.json
+C:\Users\Алексей\Desktop\homework05\Examples06\Ex\bin\Debug\net6.0\Ex.runtimeconfig.json
+C:\Users\Алексей\Desktop\homework05\Examples06\Ex\bin\Debug\net6.0\Ex.dll
+C:\Users\Алексей\Desktop\homework05\Examples06\Ex\bin\Debug\net6.0\Ex.pdb
+C:\Users\Алексей\Desktop\homework05\Examples06\Ex\obj\Debug\net6.0\Ex.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\homework05\Examples06\Ex\obj\Debug\net6.0\Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\homework05\Examples06\Ex\obj\Debug\net6.0\Ex.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\homework05\Examples06\Ex\obj\Debug\net6.0\Ex.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\homework05\Examples06\Ex\obj\Debug\net6.0\Ex.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\homework05\Examples06\Ex\obj\Debug\net6.0\Ex.dll
+C:\Users\Алексей\Desktop\homework05\Examples06\Ex\obj\Debug\net6.0\refint\Ex.dll
+C:\Users\Алексей\Desktop\homework05\Examples06\Ex\obj\Debug\net6.0\Ex.pdb
+C:\Users\Алексей\Desktop\homework05\Examples06\Ex\obj\Debug\net6.0\Ex.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\homework05\Examples06\Ex\obj\Debug\net6.0\ref\Ex.dll
